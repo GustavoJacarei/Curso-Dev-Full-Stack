@@ -1,0 +1,11 @@
+body {
+    background: white;
+}
+
+.foto {
+    width: 200px;
+    border: 2px groove #ffffff; /*shorthand*/
+    border-radius: 50%;
+    padding: 10px;
+}
+   
